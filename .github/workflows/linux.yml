@@ -121,8 +121,8 @@ jobs:
           /usr/src/tdesktop/Telegram/build/docker/centos_env/build.sh \
           -D DESKTOP_APP_DISABLE_AUTOUPDATE=OFF \
           -D DESKTOP_APP_DISABLE_CRASH_REPORTS=ON \
-          -D TDESKTOP_API_ID=17349 \
-          -D TDESKTOP_API_HASH=344583e45741c457fe1862106095a5eb \
+          -D TDESKTOP_API_ID=611335 \
+          -D TDESKTOP_API_HASH=d524b414d21f4d37f08684c1df41ac9c \
           $DEFINE
 
       - name: Check.
